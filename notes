@@ -24,4 +24,17 @@ Jan 28 Notes:
 Jan 29 Notes:
 - Data types, variables
 - Memory lockers
--
+
+
+Feb 4 Notes:
+- Introduction to computer memory
+  - primitive versus refernece 
+- Computer memory: Primitives
+  - i like that he shows all the zeros for how much data each type stores
+- Computer memory: references and null
+  - using an array to talk about references is helpful i think 
+  - off by one errors
+  - everything that isn't primitive gets set to a null pointer at first 
+- Android Studio: Out of the box
+- Android Studio: First look
+  - remember to open the main project folder, not one of the nested ones
