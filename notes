@@ -13,7 +13,6 @@ Janaury 27 notes:
 - Section 1: Reading Java Find the clues in the code
   - Say goodbye to "hello world"
 
-
 Jan 28 Notes:
 - From application to code
 - Files, classes, applications, methods
@@ -24,7 +23,6 @@ Jan 28 Notes:
 Jan 29 Notes:
 - Data types, variables
 - Memory lockers
-
 
 Feb 4 Notes:
 - Introduction to computer memory
@@ -38,3 +36,13 @@ Feb 4 Notes:
 - Android Studio: Out of the box
 - Android Studio: First look
   - remember to open the main project folder, not one of the nested ones
+  - open settings and click on build number a bunch of times to open dev mode on androids
+  - i tried to download the demo files but they didn't work. sad.
+
+Feb 9 Notes:
+- Arrays
+- Lists
+  - arrayList, linkedList, Vector
+- Sets
+- Maps
+- Objects vs New
