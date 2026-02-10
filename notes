@@ -46,3 +46,12 @@ Feb 9 Notes:
 - Sets
 - Maps
 - Objects vs New
+
+Feb 10 Notes:
+- Constructors and Allocation
+- Garabage collection and "null"
+- Operators and Assignments: bitwise and unary
+- The return statement
+- The if statement
+- else / else if
+- The for loop
