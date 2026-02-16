@@ -23,7 +23,25 @@ public class ControlFlow {
                 toCharacterArray("The quick red fox jumps over the lazy brown dog");
 
         char[] missingLetters = new char[26];
+        int numMissing = 0;
+    for (int i = 0; i < alphabet.length; i++) {
+        boolean found = false;
+        for (int j = 0; j < sentenceToTest.length; j++) {
+            char currentLetter =
+                Character.toLowerCase(sentenceToTest[j]);
 
+            if (currentLetter == alphabet[i]) {
+                found = true;
+                break;
+            }
+        }
+        if (!found) {
+            missingLetters[numMissing] = alphabet[i];
+            numMissing++;
+            }
+            writeSuccess(numMissing, missingLetters, sentenceToTest);
+
+        }
         // start here!
 
         // Find out if the 'sentenceToTest' is in fact a pangram.
@@ -58,4 +76,14 @@ public class ControlFlow {
         Log.e("OPERATOR", String.valueOf(output));
     }
 
-    public void writeSuccess(int aNumMisssing,
+public void writeSuccess(int aNumMisssing, char[] aMissingLetters, char[] aSentence) {
+
+    Log.e("OPERATOR", "testing sentence:" + String.valueOf(aSentence));
+
+    String message = String.valueOf(aNumMisssing)
+            + " missing:"
+            + String.valueOf(aMissingLetters);
+
+    Log.e("OPERATOR", message);
+}
+}
