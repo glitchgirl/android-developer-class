@@ -63,3 +63,9 @@ Feb 12 Notes:
 - The switch statement
 - Compiling and debugging
 - What's first, next, later: Interpreting control flow statements
+
+Feb 16 Notes:
+- Stack vs heap
+  - if we are in the same block of code we use the same stack (used for pointers and primitives) but seperate blocks use different stacks. We also can't put objects in stacks
+  - garabage collection removes stuff from the heap that no longers has a pointer
+- 
