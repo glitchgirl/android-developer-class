@@ -68,4 +68,10 @@ Feb 16 Notes:
 - Stack vs heap
   - if we are in the same block of code we use the same stack (used for pointers and primitives) but seperate blocks use different stacks. We also can't put objects in stacks
   - garabage collection removes stuff from the heap that no longers has a pointer
-- 
+
+Feb 17 Notes:
+- Encapsulation and "thisness"
+- scope and Accessibility keywords
+- Setters getters and autogeneration
+    - cool that android studio can auto do these now
+- Inheritance, Polymorphism, "@override" and "super"
