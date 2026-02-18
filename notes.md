@@ -75,3 +75,15 @@ Feb 17 Notes:
 - Setters getters and autogeneration
     - cool that android studio can auto do these now
 - Inheritance, Polymorphism, "@override" and "super"
+
+Feb 18 Notes:
+- The static and final keywords
+  - when something is final it can't be overwritten (const)
+  - static ~ "shared" class v object
+- Using enhanced loops (for each) in collections
+  ```java
+  for(Joke joke : jokesIKnow) {
+    print(joke);
+  }
+  ```
+- code along
