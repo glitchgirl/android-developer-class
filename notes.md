@@ -87,3 +87,13 @@ Feb 18 Notes:
   }
   ```
 - code along
+
+Feb 19 Notes:
+- All these powerful tools!
+- Abstract classes
+  - uses the idea of a "sketch" of what we want
+- interface
+  - uses the keyword interface
+  -  kind of like a "contract"
+  -  class can only extend one class, but as many interfaces as we want
+-  callbacks with interfaces      
