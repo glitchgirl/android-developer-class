@@ -96,4 +96,11 @@ Feb 19 Notes:
   - uses the keyword interface
   -  kind of like a "contract"
   -  class can only extend one class, but as many interfaces as we want
--  callbacks with interfaces      
+-  callbacks with interfaces
+  - watch for memory leaks!! 
+
+Feb 23 Notes:
+- Typecasting
+- Generics
+- code along
+
