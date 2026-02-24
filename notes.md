@@ -104,3 +104,20 @@ Feb 23 Notes:
 - Generics
 - code along
 
+Feb 24 Notes:
+- The super 6:: Mobile design principles
+  - 0 who
+  - 1 cues (how do we tell the user what to do?)
+  - 2 fingers
+  - 3 clean design (use default layouts)
+  - 4 color size shape
+  - 5 feedback
+- XML Basics
+  - nested (closes with the name)
+  - indivual (closes with /)
+  - linear layouts are kind of like grid/ grid box
+- Introduction to layouts
+  - don't import "R"
+  - use relative when possible
+- Linear layouts
+- Relative layouts        
