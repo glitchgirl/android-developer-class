@@ -120,4 +120,10 @@ Feb 24 Notes:
   - don't import "R"
   - use relative when possible
 - Linear layouts
-- Relative layouts        
+- Relative layouts
+
+ Feb 25 Notes:
+ - Margins and paddings
+ - Gravity and gravity layouts
+ - Adding images
+ - Event listeners using anon callbacks
