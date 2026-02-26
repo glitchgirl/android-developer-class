@@ -127,3 +127,6 @@ Feb 24 Notes:
  - Gravity and gravity layouts
  - Adding images
  - Event listeners using anon callbacks
+
+Feb 26 Notes:
+- code along
