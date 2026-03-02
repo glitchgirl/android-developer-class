@@ -130,3 +130,9 @@ Feb 24 Notes:
 
 Feb 26 Notes:
 - code along
+
+March 2 Notes:
+- Activities and Intent Basics
+- Android activity lifecycle
+  - https://developer.android.com/guide/components/activities/activity-lifecycle
+- Code along     
