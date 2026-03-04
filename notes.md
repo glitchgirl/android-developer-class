@@ -135,4 +135,8 @@ March 2 Notes:
 - Activities and Intent Basics
 - Android activity lifecycle
   - https://developer.android.com/guide/components/activities/activity-lifecycle
-- Code along     
+- Code along
+
+March 4 Notes:
+- code along
+- Intent fileters and implicit intents
