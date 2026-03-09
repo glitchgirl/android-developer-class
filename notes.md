@@ -139,4 +139,10 @@ March 2 Notes:
 
 March 4 Notes:
 - code along
-- Intent fileters and implicit intents
+
+March 9 Notes:
+- Intent filters and implicit intents
+  - we can now use other peoples code (camera, phone, etc)
+  - our code can be used by other people (open stuff in our app)   
+- code along
+
