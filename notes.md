@@ -146,3 +146,7 @@ March 9 Notes:
   - our code can be used by other people (open stuff in our app)   
 - code along
 
+March 10 Notes:
+- code along
+- Introduction to list views
+- Basic list views
