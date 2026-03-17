@@ -150,3 +150,8 @@ March 10 Notes:
 - code along
 - Introduction to list views
 - Basic list views
+
+March 17 Notes:
+- code along
+- Listviews with custom adapters
+- code along
