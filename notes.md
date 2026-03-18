@@ -155,3 +155,7 @@ March 17 Notes:
 - code along
 - Listviews with custom adapters
 - code along
+
+March 18 Notes:
+- code along
+- Using the holder pattern and view tags
