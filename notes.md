@@ -159,3 +159,6 @@ March 17 Notes:
 March 18 Notes:
 - code along
 - Using the holder pattern and view tags
+
+March 23 Notes:
+- code along (professional list views)
