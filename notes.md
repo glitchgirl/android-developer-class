@@ -162,3 +162,12 @@ March 18 Notes:
 
 March 23 Notes:
 - code along (professional list views)
+
+March 24 Notes:
+- Phones, tables, "phablets", fragmetns and mulitple devices
+  - kind of like activites but backwards compabitable / screens
+- TCFE: try, catch, finally, exception
+- The fragment lifecycle
+  - reviewed the activity lifecycle
+  - fragment is close (adds onAttach and OnDeatch)
+- Handling communication between fragments
