@@ -171,3 +171,7 @@ March 24 Notes:
   - reviewed the activity lifecycle
   - fragment is close (adds onAttach and OnDeatch)
 - Handling communication between fragments
+
+March 25 Notes:
+- Handling communication between fragments
+- code along build a multiple pane article viewer
