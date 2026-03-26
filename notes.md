@@ -175,3 +175,6 @@ March 24 Notes:
 March 25 Notes:
 - Handling communication between fragments
 - code along build a multiple pane article viewer
+
+March 26 Notes:
+- code along
