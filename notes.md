@@ -178,3 +178,7 @@ March 25 Notes:
 
 March 26 Notes:
 - code along
+
+March 30 Notes:
+- the action bar
+- tabs, back, and navigation
