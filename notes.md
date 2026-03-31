@@ -182,3 +182,8 @@ March 26 Notes:
 March 30 Notes:
 - the action bar
 - tabs, back, and navigation
+
+March 31 Notes:
+- Touch detection
+- code along
+  - "off by one errors are always funny"   
