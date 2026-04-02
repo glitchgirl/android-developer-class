@@ -186,4 +186,10 @@ March 30 Notes:
 March 31 Notes:
 - Touch detection
 - code along
-  - "off by one errors are always funny"   
+  - "off by one errors are always funny"
+ 
+April 2 Notes:
+- code along
+- shared preferences (this is the old way)
+- files storage
+  - i felt like these two sessions were really short and i wish they would have spent more time on it
