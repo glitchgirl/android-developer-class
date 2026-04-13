@@ -190,6 +190,12 @@ March 31 Notes:
  
 April 2 Notes:
 - code along
+
+--- spring break! ---
+
+April 13 Notes:
+- code along
+- HTTP request basics
 - shared preferences (this is the old way)
 - files storage
   - i felt like these two sessions were really short and i wish they would have spent more time on it
