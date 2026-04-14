@@ -190,12 +190,17 @@ March 31 Notes:
  
 April 2 Notes:
 - code along
+- shared preferences (this is the old way)
+- files storage
+  - i felt like these two sessions were really short and i wish they would have spent more time on it
 
 --- spring break! ---
 
 April 13 Notes:
 - code along
 - HTTP request basics
-- shared preferences (this is the old way)
-- files storage
-  - i felt like these two sessions were really short and i wish they would have spent more time on it
+ 
+April 14 Notes:
+- JSON parsing / file parsing
+- code along
+- Async task
