@@ -204,3 +204,12 @@ April 14 Notes:
 - JSON parsing / file parsing
 - code along
 - Async task
+
+Apirl 16 Notes:
+- Introduction to App stores
+- the amazon app store
+  - HTML5 wep app distro which is cool
+- Creating a developer account
+- Publishing to the amazon app store
+- The cultural interview
+- The coding interview
